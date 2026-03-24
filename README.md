@@ -95,7 +95,8 @@ touch ~/projects/test/file1.txt
 Move, copy, delete files
 Change file permissions
 Install and remove a package: sudo apt install tree
-2️⃣ Intermediate Level – Shell, Networking & Scripting
+
+#2️⃣ Intermediate Level – Shell, Networking & Scripting
 
 Goal: Automate tasks, manage users, understand processes and networking.
 
@@ -151,7 +152,7 @@ Hands-on Labs
 Write scripts to backup folders
 Transfer files between VMs with scp
 Monitor CPU/memory and log to file
-3️⃣ Advanced Level – System Administration & Security
+#3️⃣ Advanced Level – System Administration & Security
 
 Goal: Administer servers, logs, services, security, containers.
 
@@ -195,7 +196,7 @@ Setup Apache/Nginx
 SSH key authentication
 Cron jobs for automated backups
 Dockerize an app
-4️⃣ Expert Level – Linux Mastery
+#4️⃣ Expert Level – Linux Mastery
 
 Goal: Deep system internals, kernel, networking, security, cloud Linux.
 
@@ -208,5 +209,5 @@ Troubleshooting: strace, lsof, tcpdump, perf
 Security: firewall, fail2ban, auditd, AppArmor/SELinux
 CI/CD: Jenkins, GitLab Runner
 Cloud: AWS EC2 Linux, Azure Linux VM, GCP
-5️⃣ Practice Tools & Labs
+#5️⃣ Practice Tools & Labs
 
